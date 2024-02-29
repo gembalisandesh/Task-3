@@ -15,6 +15,7 @@ The project consists of the following components:
 
 - SwiftUI: For building the user interface.
 - Combine: For handling asynchronous events and data flow.
+- Alamofire: For handling network requests, specifically for uploading profile images.
 - UIKit: Used indirectly through `UIViewControllerRepresentable` to integrate the image picker.
 
 ## Getting Started
@@ -33,8 +34,7 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-- As Been Attached Inside The Project
-
+- Screenshots of the app can be found inside the project.
 
 ## License
 
